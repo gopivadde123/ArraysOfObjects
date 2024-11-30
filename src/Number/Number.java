@@ -1,6 +1,7 @@
 package Number;
 
-// this comment
+// this comment new comment
+// hello this is the new line
 
 public class Number {
 	private double num;
