@@ -17,9 +17,9 @@ public class Number {
 	}
 
 	// Check if number is positive
-	public boolean isPositive() {
-		return num > 0;
-	}
+//	public boolean isPositive() {
+//		return num > 0;
+//	}
 
 	// Check if number is negative
 	public boolean isNegative() {
