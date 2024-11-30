@@ -1,5 +1,7 @@
 package Number;
 
+// this comment
+
 public class Number {
 	private double num;
 
